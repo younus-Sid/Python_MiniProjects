@@ -1,3 +1,7 @@
+"""
+In this game the player chooses between Rock, Paper, Scissors against the computer.
+"""
+
 import random
 def play():
     user_input = input("Enter 'r' for rock, 'p' for paper, 's' for scissors: ")
