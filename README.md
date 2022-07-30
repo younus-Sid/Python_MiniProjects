@@ -1,2 +1,2 @@
-# Python_MiniProjects
+# Python MiniProjects
 Small and simple python projects build under 20 lines of code, which are fun to interect with.
